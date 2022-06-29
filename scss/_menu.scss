@@ -107,12 +107,12 @@
             // Slide in from right
             transform: translate3d(0, 0, 0);
         }
-    }
 
-    //         &.current>a {
-    //             color: $secondary-color;
-    //         }
-    //     }
+
+        &.current>a {
+            color: $secondary-color;
+        }
+    }
 
     .nav-link {
         display: inline-block;
@@ -125,17 +125,16 @@
         text-decoration: none;
         @include easeOut;
 
-        //         &:hover {
-        //             color: $secondary-color;
-    }
-
-    //     }
-    // }
-
-    // Delay each nav item slide by 0.1s
-    @for $x from 1 through 4 {
-        .nav-item:nth-child(#{$x}) {
-            transition-delay: $x * 0.1s;
+        &:hover {
+            color: $secondary-color;
         }
+    }
+}
+
+
+// Delay each nav item slide by 0.1s
+@for $x from 1 through 4 {
+    .nav-item:nth-child(#{$x}) {
+        transition-delay: $x * 0.1s;
     }
 }
