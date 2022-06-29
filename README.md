@@ -4,7 +4,7 @@
 
 ## Description
 
-The requirement of this assignment is to :-
+The requirements of this assignment is to :-
 
 * update the portfolio
 * update GitHub profile
