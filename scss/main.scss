@@ -1,5 +1,6 @@
 @import 'config';
 @import 'menu';
+@import 'mobile';
 
 
 
@@ -60,7 +61,7 @@ main {
 
         a {
             padding: 0.4rem;
-            @include easeOut();
+            @include easeOut;
 
             &:hover {
                 color: $secondary-color;

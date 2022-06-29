@@ -1,5 +1,5 @@
 $primary-color: #444;
-$secondary-color: #eece1a;
+$secondary-color: hsl(59, 89%, 60%);
 $show-home-image: true;
 $home-image: url(../img/background.jpg);
 $background-opacity: 0.9;
@@ -64,5 +64,3 @@ $background-opacity: 0.9;
         @content;
     }
 }
-
-
