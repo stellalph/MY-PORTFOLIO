@@ -57,14 +57,14 @@
       height: 250px;
       background: url("../img/portrait.jpg");
       border-radius: 50%;
-      border: solid 3px rgba(228, 225, 73, 0.964); }
+      border: solid 3px #f4f13e; }
   .menu .nav-item {
     transform: translate3d(600px, 0, 0);
     transition: all 0.5s ease-out; }
     .menu .nav-item.show {
       transform: translate3d(0, 0, 0); }
     .menu .nav-item.current > a {
-      color: rgba(228, 225, 73, 0.964); }
+      color: #f4f13e; }
   .menu .nav-link {
     display: inline-block;
     position: relative;
@@ -76,7 +76,7 @@
     text-decoration: none;
     transition: all 0.5s ease-out; }
     .menu .nav-link:hover {
-      color: rgba(228, 225, 73, 0.964); }
+      color: #f4f13e; }
 
 .nav-item:nth-child(1) {
   transition-delay: 0.1s; }
@@ -191,7 +191,7 @@ header {
   width: 100%; }
 
 .text-secondary {
-  color: rgba(228, 225, 73, 0.964); }
+  color: #f4f13e; }
 
 main {
   padding: 4rem;
@@ -202,7 +202,7 @@ main {
       padding: 0.4rem;
       transition: all 0.5s ease-out; }
       main .icons a:hover {
-        color: rgba(228, 225, 73, 0.964); }
+        color: #f4f13e; }
   main#home {
     overflow: hidden; }
     main#home h1 {
