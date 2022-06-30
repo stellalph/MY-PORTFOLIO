@@ -14,7 +14,7 @@ body {
     color: set-text-color($primary-color);
     height: 100%;
     margin: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     line-height: 1.5;
 }
 
@@ -32,7 +32,7 @@ h3 {
     &.sm-heading {
         margin-bottom: 2rem;
         padding: 0.2rem 1rem;
-        background: rgba(lighten($primary-color, 2), 0.5);
+        background: rgba(lighten($primary-color, 2), 1.0);
     }
 }
 
@@ -125,4 +125,5 @@ main {
     color: set-text-color($primary-color);
     height: 60px;
 }
+
 @import 'mobile';
