@@ -4,7 +4,8 @@
   "description": "portfolio to showcase my projects",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "ghdeploy": "git subtree push --prefix Dist origin gh-pages"
   },
   "author": "Stella Ling",
   "license": "MIT",
