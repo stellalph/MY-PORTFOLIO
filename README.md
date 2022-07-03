@@ -110,8 +110,15 @@ Clicking on the "Resume" in portfolio application will bring on a new tab to my 
 
 ## References
 
-
-
+* Dev Community - Cheatsheet for Web Developers (Section on SASS Documentation)
+https://dev.to/suprabhasupi/cheatsheet-for-web-developers-1op
+* How to Use HTML to Open a Link in a New Tab by Kris Koishigawa 
+https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/
+* Nodejs SASS npm library
+https://www.cloudhadoop.com/node-sass-npm-example/
+* Youtube Tutorial on Node SASS on www.google.com.au
+* Deployment of the application
+https://wgist.github.com/joshuapekera
 
 ## License
 
