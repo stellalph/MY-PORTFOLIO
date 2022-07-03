@@ -52,7 +52,8 @@ The name of the repository is MY-PORTFOLIO.
     * Link to my GitHub profile (which will open up to a new tab)
     * Link to my Linkedln profile (which will open up to a new tab)
     * Link to a downloadable PDF of my resume
-
+    
+    * ![alt text](./Dist/img/pp2.png)
 
  
 
