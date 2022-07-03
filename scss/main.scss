@@ -1,3 +1,5 @@
+// import code to main.css
+
 @import 'config';
 @import 'menu';
 
@@ -67,7 +69,7 @@ main {
             }
         }
     }
-
+// Home page
     &#home {
         overflow: hidden;
 
@@ -76,6 +78,8 @@ main {
         }
     }
 }
+
+// About me section
 
 .about-info {
     display: grid;
@@ -120,6 +124,7 @@ main {
 }
 
 // Work/Projects
+
 .projects {
     display: grid;
     grid-gap: 0.7rem;
@@ -137,7 +142,8 @@ main {
     }
 }
 
-// Contact Page
+// Contact 
+
 .boxes {
     display: flex;
     flex-wrap: wrap;
