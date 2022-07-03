@@ -4,9 +4,8 @@
 
 ## Description
 
-The requirements of this assignment is to :-
+The task here is to provide an update to the portfolio page and materials to build toward being employer-competitive.  The portfolio is updated to show the projects that I have done.  This is displayed on "My Work" in my deployed portfolio application, that is, the URL of the deployed application is https://stellalph.github.io/MY-PORTFOLIO/.  The URL of the GitHub repository for the updated professional materials is https://github.com/stellalph/MY-PORTFOLIO.git.
 
-* update the portfolio
-* update GitHub profile
-* update resume
-* update Linkedln profile  
+The name of the repository is MY-PORTFOLIO.
+
+ 
