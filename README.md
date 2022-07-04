@@ -90,6 +90,8 @@ Clicking on the "Github Profile" in portfolio application will bring on a new ta
 
 Here, my profile picture, biography, email address, link to my deployed portfolio and pinned repositories have been updated.  Every pinned respository have least at 20 commits and include all the criteria as listed.
 
+The URL of Github Profile is https://github.com/stellalph
+
 
 ## Linkedln
 
@@ -101,6 +103,8 @@ A brief mention on building up my skillsets.
 
 
 * ![alt text](./Dist/img/pp13.png)
+
+The URL of my Linkedln is https://www.linkedin.com/in/stella-ling-46246476
 
 ## Resume
 
