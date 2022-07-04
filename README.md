@@ -115,7 +115,7 @@ Clicking on the "Resume" in portfolio application will bring on a new tab to my 
 * Nodejs SASS npm library (https://www.cloudhadoop.com/node-sass-npm-example/)
 * Youtube Tutorial on Node SASS on www.google.com.au
 * Deployment of the application (https://wgist.github.com/joshuapekera)
-*
+
 
 ## License
 
